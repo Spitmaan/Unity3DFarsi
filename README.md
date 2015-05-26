@@ -6,7 +6,7 @@ Farsi support script for Unity3D
 //#   Unity Farsi                                                              #
 //#                                                                            #
 //#   @Copyright (C) 2014 By Mehran M. Spitmaan                                #
-//#         from Azdaa (mehran.m.spitman@gmail.com)                             #
+//#         from Azdaa (mehran.m.spitman@gmail.com)                            #
 //#                                                                            #
 //# 	                                                                         #
 //#   This program is free software: you can redistribute it and/or modify     #
