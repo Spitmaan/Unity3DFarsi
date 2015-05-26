@@ -4,7 +4,7 @@ Farsi support script for Unity3D
 You can download unity package and import it to your unity editor (Assets-> Import Package-> Custom Package)
 open UnityFarsi.unity scene it click play! Enjoy!
 
-Hierarchy:
+#Hierarchy
 
 /AssetStoreTools    => tools for editor
 
